@@ -1,3 +1,4 @@
+// Include StackExcahange for NetSuite
 export function getConfig() {
     const config = vscode.workspace.getConfiguration("SuiteSense");
 
